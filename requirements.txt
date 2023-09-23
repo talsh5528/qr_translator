@@ -1,0 +1,6 @@
+PyQRCode==1.2.1
+pyzbar==0.1.9
+qrcode==7.4.2
+Pillow==10.0.0
+opencv-python==4.8.0.76
+opencv-python-headless==4.8.0.76
